@@ -1,1 +1,12 @@
+Macierz 7x7
 
+
+Zawiera następujące funkcjonalności: 
+-Inicjalizacja  losowej macierzy składającej się z liter(duże i małe) oraz cyfr (przycisk: Losuj) 
+-Zapis macierzy do pliku
+-Odczyt macierzy z pliku
+-Sumowanie wszystkich liczb występujących w Macierzy (przycisk: Suma liczb) 
+-Tworzenie slowa z liter na głównej przekątnej 
+-Zliczanie ilosci liter i cyfr w macierzy
+-Sumowanie wartości kodów ASCII w poszczególnych kolumnach
+-Wyznaczenie ilości par (duza i mala liter np. K k, L l) 
